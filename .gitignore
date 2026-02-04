@@ -1,0 +1,10 @@
+# Ignore output data
+*.csv
+*.db
+
+# Ignore logs
+*.txt
+
+# Ignore system files
+__pycache__/
+.DS_Store
